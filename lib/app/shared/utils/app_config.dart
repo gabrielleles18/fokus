@@ -25,7 +25,7 @@ class AppConfig {
 
   // Mensagem rodapé
   static const String footerText =
-      'Projeto fictício e sem fins comerciais.\nDesenvolvido por Alura.';
+      'Projeto fictício e sem fins comerciais.';
 
   // Descrições
   static const String focusDescription = 'Concentre-se no seu trabalho';
