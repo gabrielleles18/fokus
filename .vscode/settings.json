@@ -1,0 +1,16 @@
+{
+    // Configuração geral
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    // Desativa o formatador automático do Dart
+    "[dart]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": null,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.detectIndentation": false
+    },
+    // Ativa formatação manual em outras linguagens se quiser
+    "editor.formatOnSave": true
+}
